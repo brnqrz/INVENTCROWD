@@ -1,0 +1,14 @@
+C:\Users\usuario\Documents\URI\URI1007\URI1007\bin\Debug\net7.0\URI1007.exe
+C:\Users\usuario\Documents\URI\URI1007\URI1007\bin\Debug\net7.0\URI1007.deps.json
+C:\Users\usuario\Documents\URI\URI1007\URI1007\bin\Debug\net7.0\URI1007.runtimeconfig.json
+C:\Users\usuario\Documents\URI\URI1007\URI1007\bin\Debug\net7.0\URI1007.dll
+C:\Users\usuario\Documents\URI\URI1007\URI1007\bin\Debug\net7.0\URI1007.pdb
+C:\Users\usuario\Documents\URI\URI1007\URI1007\obj\Debug\net7.0\URI1007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\URI\URI1007\URI1007\obj\Debug\net7.0\URI1007.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\URI\URI1007\URI1007\obj\Debug\net7.0\URI1007.AssemblyInfo.cs
+C:\Users\usuario\Documents\URI\URI1007\URI1007\obj\Debug\net7.0\URI1007.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\URI\URI1007\URI1007\obj\Debug\net7.0\URI1007.dll
+C:\Users\usuario\Documents\URI\URI1007\URI1007\obj\Debug\net7.0\refint\URI1007.dll
+C:\Users\usuario\Documents\URI\URI1007\URI1007\obj\Debug\net7.0\URI1007.pdb
+C:\Users\usuario\Documents\URI\URI1007\URI1007\obj\Debug\net7.0\URI1007.genruntimeconfig.cache
+C:\Users\usuario\Documents\URI\URI1007\URI1007\obj\Debug\net7.0\ref\URI1007.dll

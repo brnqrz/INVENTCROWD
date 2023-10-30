@@ -1,0 +1,14 @@
+C:\Users\usuario\Documents\URI\1848\1848\bin\Debug\net7.0\1848.exe
+C:\Users\usuario\Documents\URI\1848\1848\bin\Debug\net7.0\1848.deps.json
+C:\Users\usuario\Documents\URI\1848\1848\bin\Debug\net7.0\1848.runtimeconfig.json
+C:\Users\usuario\Documents\URI\1848\1848\bin\Debug\net7.0\1848.dll
+C:\Users\usuario\Documents\URI\1848\1848\bin\Debug\net7.0\1848.pdb
+C:\Users\usuario\Documents\URI\1848\1848\obj\Debug\net7.0\1848.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\URI\1848\1848\obj\Debug\net7.0\1848.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\URI\1848\1848\obj\Debug\net7.0\1848.AssemblyInfo.cs
+C:\Users\usuario\Documents\URI\1848\1848\obj\Debug\net7.0\1848.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\URI\1848\1848\obj\Debug\net7.0\1848.dll
+C:\Users\usuario\Documents\URI\1848\1848\obj\Debug\net7.0\refint\1848.dll
+C:\Users\usuario\Documents\URI\1848\1848\obj\Debug\net7.0\1848.pdb
+C:\Users\usuario\Documents\URI\1848\1848\obj\Debug\net7.0\1848.genruntimeconfig.cache
+C:\Users\usuario\Documents\URI\1848\1848\obj\Debug\net7.0\ref\1848.dll
